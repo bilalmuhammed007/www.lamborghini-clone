@@ -1,0 +1,476 @@
+p{
+    font-family: roboto ,'Times New Roman', Times, serif;
+}
+h1{
+    font-family: roboto;
+}
+body{
+    border: none;
+    margin: 0%;
+    padding: 0;
+}
+.header{
+
+    display: flex;
+    flex-direction:row ;
+    margin-top: 0;
+    
+    background-color: rgb(18,18,18);
+    color: #FFFF;
+    font-weight: 300;
+    height: 94px;
+    position: fixed;
+    z-index: 2;
+}
+.section-1{
+    width: 140px;
+    align-items: center;
+    display: flex;
+    background-color: rgb(18,18,18);
+   
+}
+.logo{
+    width: 60px;
+    height: 61.7;
+    padding-left: 61px;
+    padding-bottom: 1px;
+}
+.section-2{ 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(18,18,18);
+    width: 524px;
+    padding-top: 22px;
+    padding-right: 75px;
+}
+.text-1{
+    padding-left: 25px;
+    width: 62px;
+    height: 19px;
+}
+.text-2{
+    padding-left: 22px;
+
+    width: 300 px;
+    height: 19px;
+}
+.text-3{
+    padding-left: 25px;
+    width: 90.7px;
+    height: 19px;
+}
+.text-4{
+    padding-left: 25px;
+    width: 104.03px;
+    height: 19px;
+}
+.section-3{
+    display: flex;
+    padding-top: 22px;
+    flex-direction: row;
+    width: 400px;
+}
+
+
+.text-5{
+    padding-left: 100px;
+    width: 100px;
+    height: 19px;
+}
+.text-6{
+    padding-left: 27px;
+    width: 80px;
+    height: 19px;
+}
+.text-7{
+    padding-left: 15px;
+    width: 100px;
+    height: 19px;
+}
+.section-4{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    
+    width: 300px;
+    background-color: rgb(18,18,18);
+}
+.icon-1{
+    padding-left: 10px;
+    width: 25px;
+    padding-right: 20px;
+}
+.icon-2{
+    padding-left: 0px;
+    width: 25px;
+}
+.icon-3{
+    padding-left: 25px;
+    width: 25px;
+    height: 25px;
+}
+
+
+
+.divition-2{
+    position:relative ;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 94px;
+}
+
+
+.AVANTADOR{
+    position: absolute;
+    top: 100px;
+    left: 120PX;
+    letter-spacing: 1   ;
+    font-weight: 500;
+    font-family: roboto;
+    font-size: 34px;
+    color: white;
+}
+.avantador-1{
+    position: absolute;
+    top:150px;
+    left: 120PX;
+    font-weight: 600;
+    font-family: roboto;
+    font-size: 100px;
+    color: white;
+}
+.avantador-2{
+    position: absolute;
+    top: 250px;
+    left: 120PX;
+    font-weight: 600;
+    font-family: roboto;
+    font-size: 100px;
+    color: white;
+}
+.avantador-3{
+    position: absolute;
+    top: 350px;
+    left: 120PX;
+    font-weight: 600;
+    font-family: roboto;
+    font-size: 100px;
+    color: white;
+}
+.pentagon-arrow{
+    position: absolute;
+    top: 500px;
+    left: 150px;
+
+    z-index: 1;
+}
+.image-1-style{
+    position: sticky;
+    width: 1349px;
+}
+
+.image-section-5{
+    
+    max-width: 1366px;
+}
+.image-section-4{
+    width: 1366px;
+    height: 500px; 
+    
+ }
+.divition-3{
+    position: relative;
+    padding-top: 0;
+    font-family: roboto;
+    
+}
+.image-divition-3{
+    width: 1349px;
+    margin-top: -10px;
+    
+    height: auto;
+    
+}
+.divition-3-text-1{
+    position: absolute;
+    font-size: 34px;
+    color: white;
+    font-weight: 500;
+    top: 50px;
+    left: 120px;
+}
+.divition-3-svg-1{
+    position: absolute;
+    top: 120px;
+    left: 200px;
+}
+.divition-3-svg-2{
+    position: absolute;
+    top: 120px;
+    left: 120px;
+}
+.divition-3-text-2{
+    position: absolute;
+    font-size: 116px;
+    color: white;
+    font-weight: 500;
+    top: 250px;
+    left: 120px;
+}
+.divition-3-text-3{
+    position: absolute;
+    font-size: 34px;
+    color: white;
+    font-weight: 500;
+    top: 400px;
+    left: 120px;
+}
+.divition-3-svg-3{  
+    position: absolute;
+    font-size: 34px;
+    color: white;
+    font-weight: 500;
+    top: 500px;
+    left: 120px;
+}
+.divition-3-text-4{
+    position: absolute;
+    font-size: 16px;
+    width: 100px;
+    color: white;
+    top: 507px;
+    left: 200px;
+}
+.divition-4{
+    position: relative;
+    padding-top: 0;
+    font-family: roboto;
+    padding-top: 100px;
+}
+.divition-3-image{
+    
+    max-width: 1349px;
+    margin-top: -10px;
+}
+.divition-4-text-1{
+    position: absolute;
+    top: 130px;
+    left: 120px;
+    font-size: 29px;
+    font-weight: 500    ;
+    color: #202020;
+}
+.divition-4-text-2{
+    position: absolute;
+    top: 180px;
+    left: 120px;
+    font-size: 73px;
+    font-weight: 700;
+    color: #202020;
+}
+.divition-4-text-3{
+    position: absolute;
+    top: 250px;
+    left: 120px;
+    font-size: 73px;
+    font-weight: 700;
+    color: #202020;
+}
+.divition-4-svg-1{
+    position: absolute;
+    top: 380px;
+    left: 120px;
+}
+/* ///////////////// */
+
+.divition-5{
+    position: relative;
+    padding-top: 0;
+    font-family: roboto;
+    padding-top: 100px;
+    
+}
+.divition-5-image{
+    
+    max-width: 1349px;
+    margin-top: -10px;
+}
+.divition-5-text-1{
+    position: absolute;
+    top: 300px;
+    left: 120px;
+    font-size: 29px;
+    font-weight: 500    ;
+    color: white;
+}
+.divition-5-text-2{
+    position: absolute;
+    top: 370px;
+    left: 120px;
+    font-size: 73px;
+    font-weight: 700;
+    color: white;
+}
+.divition-5-text-3{
+    position: absolute;
+    top: 450px;
+    left: 120px;
+    font-size: 73px;
+    font-weight: 700;
+    color: white;
+}
+.divition-5-svg-1{
+    position: absolute;
+    top: 550px;
+    left: 120px;
+}
+/* //////////////////// */
+.divition-6{
+    margin-top: 80px;
+    font-family: roboto;
+    margin-left: 100px;
+}
+.divition-6-text-1{
+    font-size: 32px;
+    font-weight: 500 ;
+    color: #202020;
+}
+.divition-6-text-2{
+    width: 500px;
+    font-size: 110px;
+    font-weight: bold;
+    color: #202020;
+}
+.divition-6-img{
+    width: 1100px;
+    max-height: fit-content;
+}
+.divition-6-text-3{
+    margin-top: 60px;
+    font-family: roboto;
+    color: #202020;
+    font-weight: 500;
+}
+.divition-7{
+    display: grid;
+    grid-template-columns: 800px 150px;
+    margin-top: 50px;
+    padding-left: 100px;
+    width: 1000px;
+   
+    font-family: roboto;
+}
+.divition-7-text-1{
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 500;
+}
+.button-divition-7{
+    display: inline-block;
+    padding-left: 85px;
+}
+.divition-7-button-1{
+    
+    width: 215px;
+    height: 52px;
+    border-width: 1px;
+    color: #202020;
+    cursor: pointer;
+}
+.DIVITION-7-text-2{
+    font-family: roboto;
+    font-size: 16px;
+    color: #202020;
+}
+.divition-8-img-1{
+    padding-left: 50px;
+    width: 560px;
+}
+.divition-8{
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 560px 600px;
+    padding-bottom: 20px;
+}
+.divition-8-title-1{
+    padding-left: 120px;
+    margin-top: 30px;
+    font-family: roboto;
+    color: #202020;
+}
+.divition-8-text-1{
+    
+    font-size: 14px;
+    width: 500px;
+   
+}
+.divition-8-text-2{
+    padding-top: 20px;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.divition-8-button{
+    padding-top: 53px;
+    width: 215px;
+    height: 52px;
+    border-width: 1px;
+    color: #202020;
+    cursor: pointer;
+}
+.divition-8-button-1{
+    width: 215px;
+    height: 52px;
+    border-width: 1px;
+    color: #202020;
+    cursor: pointer; 
+}
+.divition-9-button{
+    padding-left: 560px;
+}
+.divition-9-botton-1{
+    width: 215px;
+    height: 52px;
+    font-size: 15px;
+    background-color: #202020;
+    border-width: 1px;
+    color: #ffffff;
+    cursor: pointer; 
+    margin-bottom: 20px;
+}
+/* /////////////////////////// */
+.footer{
+    height: 300px;
+    background-color: #202020;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+}
+.footer-1{
+    margin-top: 75px;
+    font-family: roboto;
+    color: white;
+    width: 600px;
+    font-size: 20 px;
+}
+.footer-2{
+    margin-left: 100px;
+    margin-top: 75px;
+    width: 500px;
+    
+}
+.footer-3{
+    padding-bottom: 100px;
+    width:1000px;
+    font-size: 20px;
+}
+
+/* .logo-linkdin{
+    width: 24px;
+}
+.logo-Youtube{
+    width: 24px;
+} */

@@ -1,0 +1,14 @@
+body {
+    margin: 20px;
+  }
+  
+  div {
+    width: 580px;
+    height: 580px;
+    background-color: skyblue;
+  }
+  
+  .skewed {
+    transform: skew(-20deg); /* Equal to skewX(10deg) */
+    background-color: pink;
+  }
